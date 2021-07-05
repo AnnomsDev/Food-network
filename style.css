@@ -1,0 +1,36 @@
+body{
+    margin: 0%;
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+    font-size: 50px;
+    font-weight: bold;
+    color: #575757;
+    margin-top: 20%;
+}
+p{
+    color: #828282;
+}
+.orange-color{
+    color: #fb9149;
+}
+.order-food{
+    display: flex;
+}
+.half-weidth img{
+    width: 95%;
+}
+.half-weidth{
+    width: 50%;
+    padding-left: 100px;
+    padding-right: 2%;
+    margin-bottom: 150px;
+}
+.link-button{
+    background-image: linear-gradient(98deg, #FBA24F, #FE452D);
+    padding: 20px 40px;
+    border-radius: 50px;
+    color: white;
+    text-decoration: none;
+    
+}
