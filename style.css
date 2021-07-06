@@ -57,6 +57,8 @@ h2{
     justify-content: center;
     padding-left: 5%;
     padding-right: 5%;
+    /* check the margin */
+    margin-bottom: 100px;
 
 }
 .receipie-item{
@@ -68,5 +70,16 @@ h2{
 }
 .receipie-item img{
     width: 100%;
-    padding: 0px;
+}
+
+footer{
+        text-align: center;
+        color: white;
+        /* font-weight:300; */
+        background-color: black;
+        padding-top: 10px;
+        height: 180px;
+}
+footer h3{
+    color: #5B5B5B;
 }
