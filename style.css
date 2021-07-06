@@ -8,12 +8,16 @@ h1{
     color: #575757;
 
 }
+h2{
+    font-weight:900;
+    font-size: 30px;
+}
 .orange-color{
     color: #fb9149;
 }
 .flexibal-containner{
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 50px;
 }
 .half-weidth img{
     width: 90%;
@@ -42,4 +46,27 @@ h1{
 }
 #contact-me img{
     width: 50%;
+}
+#my-recipies{
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.recipies-area{
+    display: flex;
+    justify-content: center;
+    padding-left: 5%;
+    padding-right: 5%;
+
+}
+.receipie-item{
+    width: 25%;
+    margin: 50px 20px;
+    padding: 2%;
+    border-radius: 30px;
+    box-shadow: 1px 1px 30px rgb(206, 204, 204);
+}
+.receipie-item img{
+    width: 100%;
+    padding: 0px;
 }
